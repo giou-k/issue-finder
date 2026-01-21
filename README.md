@@ -13,7 +13,7 @@ A high-performance GitHub Action designed to aggregate issues across multiple re
 
 ### Basic Configuration
 
-Create a file named `.github/workflows/issue-check.yml` in your repository.
+Create a file named `.github/workflows/issue-finder.yml` in your repository.
 
 ```yaml
 name: Contribution Dashboard
