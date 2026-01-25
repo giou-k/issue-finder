@@ -18,5 +18,6 @@ jobs:
             - orca-so/whirlpools
             - grafana/grafana
             - grafana/k6
+            - coinbase/x402
           labels: |
             - good first issue
