@@ -22,5 +22,6 @@ jobs:
             - grafana/grafana
             - grafana/k6
             - coinbase/x402
+            - digitalocean/doctl
           labels: |
             - good first issue
